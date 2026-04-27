@@ -1,6 +1,6 @@
-# DNA Threat Sequence Screener
+# Short-Query-DNA-Screener
 
-A gradient-boosting classifier for fast, short-read DNA threat detection. Uses a hybrid DNA/protein k-mer approach and reverse-screening post-filters to accurately identify hazardous sequences while generalizing to novel organisms.
+AIxBio Hackathon Project: A gradient-boosting classifier for fast, short-read DNA threat detection. Uses a hybrid DNA/protein k-mer approach and reverse-screening post-filters to accurately identify hazardous sequences while generalizing to novel organisms.
 
 ## Core Features
 * **Hybrid Model:** Evaluates both DNA and translated protein k-mer frequencies using XGBoost.
